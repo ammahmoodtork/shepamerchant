@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <AssemblyName>ShepaMerchant</AssemblyName>
+    <Title>ShepaMerchant</Title>
+    <Version>1.8.1</Version>
+    <Authors>Amir Mahmoodtork</Authors>
+    <Company>Shepa</Company>
+    <Description>C# Package to connect your application to shepa merchant gateway</Description>
+    <Copyright>Copyright © shepa 2024</Copyright>
+    <PackageProjectUrl>https//:shepa.com</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ammahmoodtork/shepamerchant</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>shepa, merchant</PackageTags>
+    <PackageReleaseNotes>Add mechant for .Net 8 and add readme.md</PackageReleaseNotes>
+    <PackageReadmeFile>Readme.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Readme.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

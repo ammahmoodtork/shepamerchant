@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ShepaMerchant</id>
+    <version>1.4.1</version>
+    <title>ShepaMerchant</title>
+    <authors>Amir Mahmoodtork</authors>
+    <description>C# Package to connect your application to shepa merchant gateway</description>
+    <releaseNotes>Add mechant for .Net 5</releaseNotes>
+    <copyright>Copyright © shepa 2024</copyright>
+    <tags>shepa, merchant</tags>
+    <repository type="git" url="https://github.com/ammahmoodtork/shepamerchant" />
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Paliz\Desktop\Shepa\Nuget5\ShepaMerchant\bin\Debug\net5.0\ShepaMerchant.dll" target="lib\net5.0\ShepaMerchant.dll" />
+  </files>
+</package>

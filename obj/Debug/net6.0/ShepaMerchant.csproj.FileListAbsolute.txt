@@ -1,0 +1,12 @@
+C:\Users\Paliz\Desktop\Shepa\Nuget5\ShepaMerchant\bin\Debug\net6.0\ShepaMerchant.deps.json
+C:\Users\Paliz\Desktop\Shepa\Nuget5\ShepaMerchant\bin\Debug\net6.0\ShepaMerchant.dll
+C:\Users\Paliz\Desktop\Shepa\Nuget5\ShepaMerchant\bin\Debug\net6.0\ShepaMerchant.pdb
+C:\Users\Paliz\Desktop\Shepa\Nuget5\ShepaMerchant\obj\Debug\net6.0\ShepaMerchant.csproj.AssemblyReference.cache
+C:\Users\Paliz\Desktop\Shepa\Nuget5\ShepaMerchant\obj\Debug\net6.0\ShepaMerchant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paliz\Desktop\Shepa\Nuget5\ShepaMerchant\obj\Debug\net6.0\ShepaMerchant.AssemblyInfoInputs.cache
+C:\Users\Paliz\Desktop\Shepa\Nuget5\ShepaMerchant\obj\Debug\net6.0\ShepaMerchant.AssemblyInfo.cs
+C:\Users\Paliz\Desktop\Shepa\Nuget5\ShepaMerchant\obj\Debug\net6.0\ShepaMerchant.csproj.CoreCompileInputs.cache
+C:\Users\Paliz\Desktop\Shepa\Nuget5\ShepaMerchant\obj\Debug\net6.0\ShepaMerchant.dll
+C:\Users\Paliz\Desktop\Shepa\Nuget5\ShepaMerchant\obj\Debug\net6.0\refint\ShepaMerchant.dll
+C:\Users\Paliz\Desktop\Shepa\Nuget5\ShepaMerchant\obj\Debug\net6.0\ShepaMerchant.pdb
+C:\Users\Paliz\Desktop\Shepa\Nuget5\ShepaMerchant\obj\Debug\net6.0\ref\ShepaMerchant.dll
